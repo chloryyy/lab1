@@ -2,7 +2,7 @@ package bsu.rfe.java.group7.lab1.Zhamoitin.varB4;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//
 public class MainApplication {
     public static void main (String[] args) throws Exception{
 
