@@ -11,7 +11,7 @@ public class Cheese extends Food {
             System.out.println(this + " съеден");
         }
 
-
+//for first commit
     public int calculateCalories() {
         calories = 200;
         return calories;
